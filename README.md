@@ -50,8 +50,8 @@ Our final project involves a detailed analysis of store sales data to uncover ke
 - Tableau
 
 ### Links
-- [Tableau Dashboard](YOUR_TABLEAU_LINK)
-- [Presentation](YOUR_PRESENTATION_LINK)
+- [Tableau Dashboard](https://public.tableau.com/app/profile/mohamed.hamada.abdulaty.ismail/viz/Book1_17291219349070/Sales)
+- [Presentation](https://www.canva.com/design/DAGSC4EKnn8/AAWNTC7FR2Un7vWL7xhmxg/edit)
 
 ## Getting Started
 ### Prerequisites
@@ -63,5 +63,5 @@ Our final project involves a detailed analysis of store sales data to uncover ke
 ### Installation
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/store-sales-data-analysis.git
+git clone https://github.com/AhmedHanfy99/Store-Sales-Data-Analysis-project.git
 cd store-sales-data-analysis
