@@ -12,7 +12,7 @@ Our final project involves a detailed analysis of store sales data to uncover ke
 - **Data Types**: 
   - Numeric: Row ID, Sales, Profit, etc.
   - Categorical: Ship Mode, Customer Segment, Product Category, etc.
-  - Datetime: Order Date, Ship Date
+  - Datetime: Order Date 
 - **Data Available**: 2017-2020
 
 ### Columns Available:
